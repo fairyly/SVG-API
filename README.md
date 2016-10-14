@@ -17,7 +17,7 @@ SVG是“可缩放矢量图”（Scalable Vector Graphics）的缩写，是一�
 SVG图像可以用专门的图像软件生成。目前，所有主流浏览器都支持，对于低于IE 9的浏览器，可以使用第三方的[polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills#svg)函数库。
 
 # 1. 插入文件
-SVG插入网页的方法有多种，可以直接把SVG代码写在HTML网页里面。
+SVG插入网页的方法有多种，可以直接把`SVG`代码写在`HTML`网页里面。
 ```html
 <!DOCTYPE html>
 <html>
