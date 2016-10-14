@@ -1,15 +1,15 @@
 # SVG-API
-SVG 图像API
-# 目录
-  # 1. 插入文件
-  # 2. svg格式
-  # 3. DOM 操作
-  # 4. JavaScript操作
-    ## 4.1 获取SVG DOM
-    ## 4.2 读取svg源码
-    ## 4.3 将svg图像转为canvas图像
-  # 5. 实例
-  # 6. 参考链接
+  SVG 图像API
+# 目录  
+  # 1. 插入文件  
+  # 2. svg格式  
+  # 3. DOM 操作  
+  # 4. JavaScript操作  
+    ## 4.1 获取SVG DOM  
+    ## 4.2 读取svg源码  
+    ## 4.3 将svg图像转为canvas图像  
+  # 5. 实例  
+  # 6. 参考链接  
 SVG是“可缩放矢量图”（Scalable Vector Graphics）的缩写，是一种描述向量图形的XML格式的标记化语言。也就是说，SVG本质上是文本文件，格式采用XML，可以在浏览器中显示出矢量图像。由于结构是XML格式，使得它可以插入HTML文档，成为DOM的一部分，然后用JavaScript和CSS进行操作。
 
 相比传统的图像文件格式（比如JPG和PNG），SVG图像的优势就是文件体积小，并且放大多少倍都不会失真，因此非常合适用于网页。
