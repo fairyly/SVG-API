@@ -35,7 +35,6 @@ SVG插入网页的方法有多种，可以直接把`SVG`代码写在`HTML`网页
 </html>
 ```
 SVG代码也可以写在一个独立文件中，然后用在`<img>、<object>、<embed>、<iframe>`等标签，以及CSS的`background-image`属性，将这个文件插入网页。
->
 ```html
 <!-- 方法一 -->
 `<img src="circle.svg">`
